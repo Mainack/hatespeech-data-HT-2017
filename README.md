@@ -72,5 +72,5 @@ Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icw
 	1. **Hate categories assigned by us**: We manually labeled each hate_target into one of our hate categories and put the manual label in this column. For a comprehensive list of the hate categories, check our paper.	
 
 
-##### Release date: 7th March, 2019
-##### authors: Mainack Mondal and Leandro A. A. Silva and Fabricio Benevenuto
+####### Release date: 7th March, 2019
+####### authors: Mainack Mondal and Leandro A. A. Silva and Fabricio Benevenuto
