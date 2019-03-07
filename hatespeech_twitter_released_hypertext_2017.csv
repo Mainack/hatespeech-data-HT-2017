@@ -1,4 +1,4 @@
-Tweet id (you need to refect them using Twitter API),Hate targets extracted from the tweet text,Hate categories assigned by us
+Tweet id (you need to refetch them using Twitter API),Hate targets extracted from the tweet text,Hate categories assigned by us
  474981469279244288 ,black people,race
  474986192065150976 ,sensitive people,behavior
  474988763169693696 ,sensitive people,behavior
