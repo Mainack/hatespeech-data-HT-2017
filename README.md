@@ -20,7 +20,7 @@ You can read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/H
 }
 ~~~
 
-## Other works based on this data. 
+## Other publications based on this data 
 
 * This data is used in two other of our published work.
 ~~~
