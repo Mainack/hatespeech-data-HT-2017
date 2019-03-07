@@ -6,15 +6,17 @@
 
 1. **Please cite our paper in any published work that uses any of these resources.**
 
-> @inproceedings{mondal2017,
-> author = {Mainack Mondal and Leandro A. A. Silva and Fabrício Benevenuto},
-> title = {A Measurement Study of Hate Speech in Social Media},
-> booktitle = {Proceedings of the 28th ACM Conference on Hypertext and Social Media},
-> series = {HT '17},
-> year = {2017},
-> location = {Prague, Czech Republic},
-> publisher = {ACM}
->}
+~~~
+@inproceedings{mondal2017,
+ author = {Mainack Mondal and Leandro A. A. Silva and Fabrício Benevenuto},
+ title = {A Measurement Study of Hate Speech in Social Media},
+ booktitle = {Proceedings of the 28th ACM Conference on Hypertext and Social Media},
+ series = {HT '17},
+ year = {2017},
+ location = {Prague, Czech Republic},
+ publisher = {ACM}
+}
+~~~
 
 If you find any problem with the data feel free to contact us (email id in the paper). 
 
