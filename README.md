@@ -8,7 +8,7 @@
 
 ~~~
 @inproceedings{mondal2017,
- author = {Mainack Mondal and Leandro A. A. Silva and Fabrício Benevenuto},
+ author = {Mainack Mondal and Leandro A. A. Silva and Fabricio Benevenuto},
  title = {A Measurement Study of Hate Speech in Social Media},
  booktitle = {Proceedings of the 28th ACM Conference on Hypertext and Social Media},
  series = {HT '17},
