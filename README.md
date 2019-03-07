@@ -4,7 +4,7 @@
 You can read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
 1. *If you have any questions about this data feel free to contact Dr. Mainack Mondal (email id in the paper pdf).*
 1. This is data on hatepspeech collected from social media sites Twitter and Whisper on 2014 - 2015. 
-1. The dataset contains total 20,705 hate posts from Twitter and 7,604 hate posts from  Whisper,
+1. The dataset contains total 20,705 hate posts from Twitter and 7,604 hate posts from  Whisper.
 
 1. **Please cite our paper in any published work that uses any of these resources.**
 
