@@ -1,7 +1,8 @@
 ## HATESPEECH DATA FROM TWITTER AND WHISPER
 
 1. This repository contains data from * Mainack Mondal, Leandro Araujo Silva and Fabricio Benevenuto. 2017. "A Measurement Study of Hate Speech in Social Media." HT'17. You can read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
-1. This is data on hatepspeech collected from Twitter and Whisper on 2014 - 2015. 
+1. *If you have any questions about this data feel free to contact Dr. Mainack Mondal (email id in the paper pdf).*
+1. This is data on hatepspeech collected from social media sites Twitter and Whisper on 2014 - 2015. 
 1. The dataset contains total 20,705 hate posts from Twitter and 7,604 hate posts from  Whisper
 
 1. **Please cite our paper in any published work that uses any of these resources.**
@@ -18,7 +19,7 @@
 }
 ~~~
 
-If you find any problem with the data feel free to contact us (email id in the paper). 
+
 
 
 ## WARNING
