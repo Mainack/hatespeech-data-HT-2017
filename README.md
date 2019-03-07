@@ -26,8 +26,9 @@
 Characterizing Usage of Explicit Hate Expressions in Social Media 
 Mainack Mondal, Leandro Araujo Silva, Denzil Correa and Fabricio Benevenuto.
 New Review of Hypermedia and Multimedia (THAM), vol. 24, no. 2, pp. 110-130, June 2018.
-Read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham_mondal2018.pdf)
 ~~~
+Read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham_mondal2018.pdf)
+
 
 ~~~
 Analyzing the Targets of Hate in Online Social Media.
@@ -35,6 +36,7 @@ Leandro Silva, Mainack Modal, Denzil Correa, Fabrício Benevenuto, and Ingmar We
 In Proceedings of the Int'l AAAI Conference on Weblogs and Social (ICWSM’16). Cologne, Germany. May 2016. 
 Read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
 ~~~
+Read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham_mondal2018.pdf)
 
 ## WARNING
 
