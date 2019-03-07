@@ -35,7 +35,6 @@ Read the THAM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham
 Analyzing the Targets of Hate in Online Social Media.
 Leandro Silva, Mainack Modal, Denzil Correa, Fabrício Benevenuto, and Ingmar Weber.
 In Proceedings of the Int'l AAAI Conference on Weblogs and Social (ICWSM’16). Cologne, Germany. May 2016. 
-Read the paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
 ~~~
 Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
 
