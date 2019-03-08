@@ -57,7 +57,7 @@ Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icw
 
 	1. **Hate categories assigned by us**: We manually labeled each hate_target into one of our hate categories and put the manual label in this column. For a comprehensive list of the hate categories, check our paper.
 
-* **Full tweet objects corresponsing to these tweet ids for academic research purposes are available upon request. please follow the instructions provided in [agreement-tweetobject.txt](https://github.com/Mainack/hatespeech-data-HT-2017/blob/master/agreement-tweetobject.txt).**
+* **Full tweet objects corresponsing to these tweet ids for academic research purposes are available upon request. please follow the instructions provided in [agreement-tweetobject.txt](https://raw.githubusercontent.com/Mainack/hatespeech-data-HT-2017/master/agreement-tweetobject.txt).**
 
 ## Description of Whisper data
 
