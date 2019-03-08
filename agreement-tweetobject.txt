@@ -23,7 +23,7 @@ This Agreement will take effect from the date of signature and will expire two y
 
 3. THE DATA
 
-3.1 The Data will be supplied by providing a username/password combination.
+3.1 The Data will be supplied by providing a password.
 
 3.2 You agree to delete the Data, or any portion thereof, from any media on which it has been stored, if required to do this for legal or regulatory reasons.
 
