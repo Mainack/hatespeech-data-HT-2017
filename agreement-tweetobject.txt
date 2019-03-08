@@ -1,0 +1,42 @@
+You need to send us this agreement to access full tweet objects in our hatespeech dataset. PLEASE ACKNOWLEDGE YOUR AGREEMENT BY ADDING YOUR NAME, POSITION, INSTITUTION AND DATE BELOW, then send a single e-mail to Mainack Mondal (mainack [[at]] mpi-sws.org) and cc Fabricio Benevenuto (fabricio [[at]] dcc.ufmg.br) from your e-mail address at your institution. The email should contain the text below.
+
+===================================================================
+     TO: Mainack Mondal, Fabricio Benevenuto
+SUBJECT: Request for data collection [HT'17 Twitter Hatespeech]
+
+I, a person engaging in scientific research, hereby apply to use the tweets objects of the HT-2017-twitter-hatespeech data set (the Data). In consideration of the provision of this data, I agree to:
+
+1. SCOPE OF AGREEMENT
+1.1 Use the Data only in accordance with this letter agreement (the Agreement), and to hold the Data in strict confidence.
+
+1.2 You may use the Data only for research purposes in academic and/or commercial institutions. Summaries, analyses and interpretations of the Data may be derived and published provided it is not possible to reconstruct the Data from the publication. Small excerpts of the Data may be displayed to others or published in a scientific or technical context, solely for the purpose of describing your research and related issues.
+
+1.3 You may grant access to the Data only to persons that are working under your supervision and control and have a valid purpose within the scope of this agreement to access the Data. You agree to ensure that such persons comply with the terms and conditions of this Agreement, and to accept responsibility for that compliance.
+
+1.4 The Data has been obtained by crawling the Internet. All the data contained in the Data are documents which have been at some time made publicly available on the Internet, and which have been collected using a process which respects the commonly accepted methods (such as robots.txt) indicating which documents should not be collected.
+
+1.5 Owners of copyright of individual documents contained in the collection may choose to request deletion of these documents from the Data and you agree to promptly comply with such request.
+
+2. COMMENCEMENT AND DURATION
+
+This Agreement will take effect from the date of signature and will expire two years from this date, unless terminated earlier.
+
+3. THE DATA
+
+3.1 The Data will be supplied by providing an unique username/password combination.
+
+3.2 You agree to delete the Data, or any portion thereof, from any media on which it has been stored, if required to do this for legal or regulatory reasons.
+
+3.3 As mentioned in Twitter developer policyi (in 03/2019), if a tweet in this dataset is deleted, gains protected status, or is otherwise suspended, withheld, modified, or removed from the Twitter Service (including removal of location information), you will make reasonable efforts to delete or modify such Twitter Content (as applicable) as soon as reasonably possible, and in any case within 24 hours after a request to do so by Twitter or by a Twitter user with regard to their Twitter Content, unless otherwise prohibited by applicable law or regulation, and with the express written permission of Twitter.
+
+3.4 Unless expressly requested no attribution, all publications resulting from research carried out using the Data must provide an attribution. This attribution should preferably appear among the bibliographic citations in the publication, in the following form (edited to fit the citation style used in your publication):
+
+Mondal, M., Silva, L. A., & Benevenuto, F. (2017). A Measurement Study of Hate Speech
+in Social Media. In Proceedings of the 25th acm conference on hypertext and social media
+(HT’17).
+
+ <Your name here>
+ <Your position here>
+ <Your institution here>
+ <Current date here>
+ 
