@@ -74,4 +74,4 @@ Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icw
 
 
 ###### Release date: 7th March, 2019
-###### authors: Mainack Mondal, Leandro A. A. Silva and Fabricio Benevenuto
+###### Authors: Mainack Mondal, Leandro A. A. Silva and Fabricio Benevenuto
